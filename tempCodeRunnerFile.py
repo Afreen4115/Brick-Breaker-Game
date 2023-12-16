@@ -1,0 +1,1 @@
+ pygame.draw.rect(screen, paddle_outline, self.rect, 3)
